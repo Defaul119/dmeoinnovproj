@@ -1,0 +1,17 @@
+{
+  "_about": "Inputs that trigger each prototype state. Must equal prototypeExamples() in src/api/mock/mockApi.ts; tests/prototype.test.ts checks this.",
+  "typo": "bc1qytpc4frzkxt0vwsnvt9kfcrers8k5pejunwjuq",
+  "unsupported": "bc1qr4n2l7zp3tf3cedw7aqgn5smvjklv0ugk90y57",
+  "mainAddress": "bc1qytpc4frzkxt0vwsnvt9kfcrers8k5pejunwjuc",
+  "shortHistory": "bc1ql62wgymn8pquck8jz8nrpd6247phwgecgk49tk",
+  "flagged": {
+    "address": "bc1qytpc4frzkxt0vwsnvt9kfcrers8k5pejunwjuc",
+    "date": "2026-08-14",
+    "txid": "58ce1f08d3b133a47e13cb57afaf06fddd89650f4b7b834c6cc90b58fbcae383"
+  },
+  "notScored": {
+    "address": "bc1ql62wgymn8pquck8jz8nrpd6247phwgecgk49tk",
+    "date": "2026-10-02",
+    "txid": "8bae701e425eb7a7ac2f3b33eda388b2c11defbaeb70a2347f8a69966f0da6bd"
+  }
+}

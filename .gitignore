@@ -1,0 +1,12 @@
+# Dependencies and build output
+node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local settings
+.env.local
+frontend/.env.local
